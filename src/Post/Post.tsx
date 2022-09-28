@@ -5,7 +5,7 @@ export const Post = () => {
         <div>
             
             <h2>
-                Post
+                User
             </h2>
         </div>
     )
