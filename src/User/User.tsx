@@ -4,8 +4,7 @@ export const User = () => {
     return (
         <div>
             <h2>
-                User1
-                User2
+                User
             </h2>
         </div>
     )
